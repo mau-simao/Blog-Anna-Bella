@@ -1,2 +1,2 @@
 # Blog-Anna-Bella
-Blog fictício de uma modelo chamada Anna Bella.
+Blog  de uma modelo chamada Anna Bella.
